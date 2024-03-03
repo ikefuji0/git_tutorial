@@ -5,3 +5,5 @@ for nm in ls:
 
 print('A')
 print('B')
+print('C')
+print('D')
