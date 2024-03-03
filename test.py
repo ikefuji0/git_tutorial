@@ -4,3 +4,4 @@ for nm in ls:
     print(nm)
 
 print('A')
+print('B')
